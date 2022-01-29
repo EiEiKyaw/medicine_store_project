@@ -1,0 +1,14 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<parent>
+		<groupId>com.se.pj.med_store</groupId>
+		<artifactId>MedicineStore</artifactId>
+		<version>0.0.1-SNAPSHOT</version>
+	</parent>
+	<groupId>com.se.pj.med_store.dto</groupId>
+	<artifactId>Dto</artifactId>
+	<name>Dto</name>
+	<description>Medicine Store Dto Project</description>
+</project>
